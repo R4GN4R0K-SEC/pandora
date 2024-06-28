@@ -1,15 +1,11 @@
-# PANDORA
-
+<p align="center"><h1>PANDORA</h1></p>
+  
 <p align="center">
-<img src="https://img.shields.io/badge/build-MrSanZz-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
-<img width="225" height="225" src="https://bnhsec.000webhostapp.com/a/ublpyf.jpg"><br>Donate Me :).. (Payment : Dana)<br><br>
-<img src="https://kosred.com/a/jokpxf.png" style="height: 50%; width: 100%;"><br>
-<img src="https://kosred.com/a/pvwnwx.png" style="height: 30%; width: 30%;"><br>
-</center>
-<span>Do Not Recode This Project, Skiddo Scripter.</span><br>
-</p>
+<a href="#"><img alt="PANDORA" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/bfd6b69a-7e23-4d93-829d-6baa345510b7"
 
-#Feature
+
+
+ Feature
 <details open>
     <center>
 -= Has features =-<br><br>
@@ -96,3 +92,11 @@
     11. If the tool has an error in the module, try typing python3 setup.py
 ```
 <span>Thanks For : JogjaXploit</span>
+
+<src="https://img.shields.io/badge/build-MrSanZz-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
+![Capture du 2024-06-28 14-40-30](https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/8168a0dd-69d1-4fe5-8ef3-6d06cc4a56b6)
+
+<img src="https://kosred.com/a/pvwnwx.png" style="height: 30%; width: 30%;"><br>kosred.com/a/jokpxf.png:443
+</center>kosred.com/a/jokpxf.png:443
+<span>Do Not Recode This Project, Skiddo Scripter.</span><br>
+</p>
