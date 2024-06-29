@@ -1,16 +1,18 @@
-<p align="center"><h1>PANDORA</h1></p>
-  
-<p align="center">
-<a href="#"><img alt="PANDORA" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/bfd6b69a-7e23-4d93-829d-6baa345510b7"
-
-
-
- Feature
+***
+# PANDORA
+![https://github.com/R4GN4R0K-SEC/pandora](https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/bfd6b69a-7e23-4d93-829d-6baa345510b7)
+#### *Files : https://github.com/R4GN4R0K-SEC/pandora/edit/main/README.md* </BR>
+#### *Homepage : https://github.com/R4GN4R0K-SEC/pandora*
+***
+#### Has features 
+### Feature
 <details open>
     <center>
--= Has features =-<br><br>
+## -= *Has features* =-<br><br>
 
 ===============<br><br>
+#####-=FEATURES=-
+***    
 -DDoS<br>
 -Web Scanning<br>
 -Phone Hunter<br>
@@ -93,10 +95,4 @@
 ```
 <span>Thanks For : JogjaXploit</span>
 
-<src="https://img.shields.io/badge/build-MrSanZz-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
-![Capture du 2024-06-28 14-40-30](https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/8168a0dd-69d1-4fe5-8ef3-6d06cc4a56b6)
-
-<img src="https://kosred.com/a/pvwnwx.png" style="height: 30%; width: 30%;"><br>kosred.com/a/jokpxf.png:443
-</center>kosred.com/a/jokpxf.png:443
-<span>Do Not Recode This Project, Skiddo Scripter.</span><br>
-</p>
+<src="https://img.shields.io/badge/build-GN4R0K_SEC-badge?style=flat-square&logo=bitcoin&logoColor=yellow&label=Author&labelColor=grey&color=yellow"><br>
