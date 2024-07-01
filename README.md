@@ -102,3 +102,7 @@
 ```
 
 ***
+
+##### ⚡ **Thanks to the coder** ➡️ *MrSanZz*  | *V : 3.2.0* | *Team:JogjaXploit* 🏴‍☠️
+
+***
