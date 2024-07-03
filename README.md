@@ -8,7 +8,7 @@
 ## SITE & FILES
 
 <p align="center">  
-<a href="https://R4GN4R0K-SEC.github.io/pandora" title="website homepage">
+<a href="https://R4GN4R0K-SEC.github.io/" title="website homepage">
    <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/ab1796b2-72d3-4678-b2b6-83be792b3512"/>
 <a href="https://github.com/R4GN4R0K-SEC/pandora" title="files github repo">
    <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/3cbe8b24-0309-45e8-932d-852c0917b865"/>
@@ -57,7 +57,7 @@
 
 ***
 
-# Install Steps
+## INSTALL STEPS
 
 <details open>
     <summary><strong><i> How To Install </i></strong></summary>
