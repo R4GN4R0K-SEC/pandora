@@ -5,10 +5,17 @@
 
 ***
 
-#### *Files : https://github.com/R4GN4R0K-SEC/pandora/edit/main/README.md* </br>
-#### *Zip : https://github.com/R4GN4R0K-SEC/pandora/archive/refs/heads/main.zip* </br>
-#### *Homepage : https://github.com/R4GN4R0K-SEC/pandora*
+## SITE & FILES
 
+<p align="center">  
+<a href="https://R4GN4R0K-SEC.github.io/pandora" title="website homepage">
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/ab1796b2-72d3-4678-b2b6-83be792b3512"/>
+<a href="https://github.com/R4GN4R0K-SEC/pandora" title="files github repo">
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/3cbe8b24-0309-45e8-932d-852c0917b865"/>
+<a href="https://github.com/R4GN4R0K-SEC/pandora/archive/refs/heads/main.zip" title="Download zip">
+   <img alt="image link" src="https://github.com/R4GN4R0K-SEC/pandora/assets/74421852/03400010-8696-4019-83d7-926b217f8203"/>    
+</p>
+  
 ***
 
 ## FEATURES <br><br>
@@ -100,9 +107,12 @@
     10. python3 pandora.py
     11. If the tool has an error in the module, try typing python3 setup.py</br>
 ```
+</details>
 
 ***
 
-##### ⚡ **Thanks to the coder** ➡️ *MrSanZz*  | *V : 3.2.0* | *Team:JogjaXploit* 🏴‍☠️
+<p align="center">
+    /archive/refs/heads/main.zip<a><i> ⚡ Thanks to the coder ➡️ MrSanZz  | V : 3.2.0 | Team:JogjaXploit 🏴‍☠️ </></h5> 
+</p>
 
 ***
