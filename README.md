@@ -111,8 +111,8 @@
 
 ***
 
-<p align="center">
-    /archive/refs/heads/main.zip<a><i> ⚡ Thanks to the coder ➡️ MrSanZz  | V : 3.2.0 | Team:JogjaXploit 🏴‍☠️ </></h5> 
+<p align="center"> 
+⚡ Thanks to the coder ➡️ MrSanZz  | V : 3.2.0 | Team:JogjaXploit 🏴‍☠️ </></h5> 
 </p>
 
 ***
